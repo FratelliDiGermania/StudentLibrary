@@ -11,3 +11,4 @@ C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\thr
 C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.dll
 C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.pdb
 C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.genruntimeconfig.cache
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.csproj.AssemblyReference.cache

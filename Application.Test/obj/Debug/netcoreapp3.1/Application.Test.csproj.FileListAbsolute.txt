@@ -94,3 +94,4 @@ C:\Users\Toumi\source\repos\Student.Library\Application.Test\obj\Debug\netcoreap
 C:\Users\Toumi\source\repos\Student.Library\Application.Test\obj\Debug\netcoreapp3.1\Application.Test.dll
 C:\Users\Toumi\source\repos\Student.Library\Application.Test\obj\Debug\netcoreapp3.1\Application.Test.pdb
 C:\Users\Toumi\source\repos\Student.Library\Application.Test\obj\Debug\netcoreapp3.1\Application.Test.genruntimeconfig.cache
+C:\Users\Toumi\source\repos\Student.Library\Application.Test\obj\Debug\netcoreapp3.1\Application.Test.csproj.AssemblyReference.cache

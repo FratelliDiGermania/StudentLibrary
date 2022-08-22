@@ -2,6 +2,7 @@
 using System.Data;
 using System;
 
+
 namespace JT.UniStuttgart.StudentLibrary.Logic.DBManagement.DBManager.Services
 {
     public static class DBHelper
@@ -28,10 +29,10 @@ namespace JT.UniStuttgart.StudentLibrary.Logic.DBManagement.DBManager.Services
                     Connection().Open();
                     return true;
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-
-                    return false;
+                    throw new Exception(ex.Message);
+                    //return false;
                 }
 
             }
@@ -51,8 +52,9 @@ namespace JT.UniStuttgart.StudentLibrary.Logic.DBManagement.DBManager.Services
                     Connection().Close();
                     return true;
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
+                    throw new Exception(ex.Message);
                     return false;
                 }
 
@@ -68,14 +70,16 @@ namespace JT.UniStuttgart.StudentLibrary.Logic.DBManagement.DBManager.Services
                 Command.Connection = Connection();
                 if (OpenConnection())
                 {
+                    
                     assignCommandParamater?.Invoke();
                     Command.ExecuteNonQuery();
                     return true;
                 }
                 return false;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                throw new Exception(ex.Message);
                 CloseConnection();
                 return false;
             }
