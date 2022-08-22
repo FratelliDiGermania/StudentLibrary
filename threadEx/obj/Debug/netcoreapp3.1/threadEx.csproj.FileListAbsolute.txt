@@ -1,0 +1,13 @@
+C:\Users\Toumi\source\repos\Student.Library\threadEx\bin\Debug\netcoreapp3.1\threadEx.exe
+C:\Users\Toumi\source\repos\Student.Library\threadEx\bin\Debug\netcoreapp3.1\threadEx.deps.json
+C:\Users\Toumi\source\repos\Student.Library\threadEx\bin\Debug\netcoreapp3.1\threadEx.runtimeconfig.json
+C:\Users\Toumi\source\repos\Student.Library\threadEx\bin\Debug\netcoreapp3.1\threadEx.runtimeconfig.dev.json
+C:\Users\Toumi\source\repos\Student.Library\threadEx\bin\Debug\netcoreapp3.1\threadEx.dll
+C:\Users\Toumi\source\repos\Student.Library\threadEx\bin\Debug\netcoreapp3.1\threadEx.pdb
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.AssemblyInfoInputs.cache
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.AssemblyInfo.cs
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.csproj.CoreCompileInputs.cache
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.dll
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.pdb
+C:\Users\Toumi\source\repos\Student.Library\threadEx\obj\Debug\netcoreapp3.1\threadEx.genruntimeconfig.cache

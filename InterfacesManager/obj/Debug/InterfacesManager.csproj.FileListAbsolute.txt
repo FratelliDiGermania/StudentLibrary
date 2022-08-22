@@ -1,0 +1,5 @@
+C:\Users\Toumi\source\repos\Student.Library\InterfacesManager\bin\Debug\InterfacesManager.dll
+C:\Users\Toumi\source\repos\Student.Library\InterfacesManager\bin\Debug\InterfacesManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\InterfacesManager\obj\Debug\InterfacesManager.csproj.CoreCompileInputs.cache
+C:\Users\Toumi\source\repos\Student.Library\InterfacesManager\obj\Debug\InterfacesManager.dll
+C:\Users\Toumi\source\repos\Student.Library\InterfacesManager\obj\Debug\InterfacesManager.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toumi\source\repos\Student.Library\DBManager\bin\Debug\DBManager.dll.config
+C:\Users\Toumi\source\repos\Student.Library\DBManager\bin\Debug\DBManager.dll
+C:\Users\Toumi\source\repos\Student.Library\DBManager\bin\Debug\DBManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\DBManager\obj\Debug\DBManager.csproj.CoreCompileInputs.cache
+C:\Users\Toumi\source\repos\Student.Library\DBManager\obj\Debug\DBManager.dll
+C:\Users\Toumi\source\repos\Student.Library\DBManager\obj\Debug\DBManager.pdb

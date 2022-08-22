@@ -1,0 +1,14 @@
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\PresenterManager.dll
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\PresenterManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\DBManager.dll
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\InterfacesManager.dll
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\ModellManager.dll
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\DBManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\DBManager.dll.config
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\InterfacesManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\bin\Debug\ModellManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\obj\Debug\PresenterManager.csproj.AssemblyReference.cache
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\obj\Debug\PresenterManager.csproj.CoreCompileInputs.cache
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\obj\Debug\PresenterManager.csproj.CopyComplete
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\obj\Debug\PresenterManager.dll
+C:\Users\Toumi\source\repos\Student.Library\PresenterManager\obj\Debug\PresenterManager.pdb

@@ -1,0 +1,5 @@
+C:\Users\Toumi\source\repos\Student.Library\ModellManager\bin\Debug\ModellManager.dll
+C:\Users\Toumi\source\repos\Student.Library\ModellManager\bin\Debug\ModellManager.pdb
+C:\Users\Toumi\source\repos\Student.Library\ModellManager\obj\Debug\ModellManager.csproj.CoreCompileInputs.cache
+C:\Users\Toumi\source\repos\Student.Library\ModellManager\obj\Debug\ModellManager.dll
+C:\Users\Toumi\source\repos\Student.Library\ModellManager\obj\Debug\ModellManager.pdb
